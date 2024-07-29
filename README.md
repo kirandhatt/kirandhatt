@@ -60,7 +60,7 @@
     &nbsp;
     <img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="Sass logo" title="Sass" height="25" />
     &nbsp;
-    <img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=0066cc" alt="MySQL logo" title="MySQL" height="25" />
+    <img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql&logoColor=3f97ef" alt="MySQL logo" title="MySQL" height="25" />
     &nbsp;
     <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
     &nbsp;
