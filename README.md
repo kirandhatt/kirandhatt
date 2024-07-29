@@ -17,7 +17,6 @@
 <strong>visit my personal website </strong>
 <br />
 <br />
-<br />
 
 <p>
 
