@@ -50,6 +50,7 @@
   <br />
   <img height="50" alt="Tech Stack" src="images/tech_stack.svg" />
   <br />
+  <br />
     <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
     &nbsp;
     <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />
