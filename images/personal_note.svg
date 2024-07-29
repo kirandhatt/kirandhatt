@@ -13,7 +13,7 @@
         }
         @keyframes blink-animation {
           to {
-            visibility: hidden;
+            visibility: visible;
           }
         }
       </style>
