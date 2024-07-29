@@ -3,7 +3,7 @@
   <img src="images/welcome.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
-  <img height="50" alt="My Name is Kiran and I like to CODE" src="images/personal_note.svg" />
+  <img height="50" alt="My Name is Kiran and I like Coding!" src="images/personal_note.svg" />
   <br />
   <br />
 
