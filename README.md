@@ -69,7 +69,6 @@
     &nbsp;
     <img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" />
   <br />
-  <br />
 
 </div>
 
