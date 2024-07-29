@@ -44,6 +44,16 @@
 </tr>
 </table>
 
+<!-- Tech Stack -->
+<div align="center">
+  <br />
+  <br />
+  <img height="50" alt="Tech Stack" src="images/tech_stack.svg" />
+  <br />
+  <br />
+
+</div>
+
 <!-- Footer -->
 
 <div align="center">
