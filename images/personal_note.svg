@@ -13,11 +13,11 @@
         }
         @keyframes blink-animation {
           to {
-            visibility: visible;
+            visibility: hidden;
           }
         }
       </style>
-      <strong>My Name is Kiran and I like to <span class="blink">CODE</span></strong>
+      <strong>My Name is Kiran and I like to <span class="blink">Code</span></strong>
 		</div>
 	</foreignObject>
 </svg>
